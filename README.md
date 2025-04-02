@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @depster26
 - 👀 I’m interested in all things coding
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on interesting projects
+- 🌱 I’m currently learning React
+- 💞️ Looking to collaborate on interesting projects
 - 📫 How to reach me ...
 
 <!---
